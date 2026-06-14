@@ -1,0 +1,6 @@
+{
+  "name": "Editoz Agency",
+  "description": "Premium SaaS platform for Editoz Agency, a digital marketing and social media management services app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
